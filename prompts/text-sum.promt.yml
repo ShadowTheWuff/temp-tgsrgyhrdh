@@ -1,6 +1,6 @@
 name: Text Summarizer
 description: Summarizes input text concisely
-model: openai/gpt-5
+model: openai/gpt-4o-mini
 modelParameters:
   temperature: 0.5
 messages:
