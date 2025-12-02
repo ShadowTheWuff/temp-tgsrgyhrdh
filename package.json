@@ -1,9 +1,0 @@
-{
-  "type": "module",
-  "dependencies": {
-    "openai": "latest",
-    "@azure-rest/ai-inference": "latest",
-    "@azure/core-auth": "latest",
-    "@azure/core-sse": "latest"
-  }
-}
