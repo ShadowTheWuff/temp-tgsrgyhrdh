@@ -1,0 +1,5 @@
+messages:
+  - role: system
+    content: you are a helpfull asistant
+model: openai/gpt-5
+responseFormat: json_object
