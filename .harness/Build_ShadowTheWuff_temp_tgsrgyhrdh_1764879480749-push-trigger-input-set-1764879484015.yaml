@@ -1,0 +1,14 @@
+inputSet:
+  name: Build_ShadowTheWuff_temp_tgsrgyhrdh_1764879480749-push-trigger-input-set
+  identifier: Build_ShadowTheWuff_temp_tgsrgyhrdh_1764879480749pushtriggerinputset
+  orgIdentifier: default
+  projectIdentifier: default_project
+  pipeline:
+    identifier: Build_ShadowTheWuff_temp_tgsrgyhrdh_1764879480749
+    properties:
+      ci:
+        codebase:
+          build:
+            type: branch
+            spec:
+              branch: <+trigger.branch>
